@@ -1,1 +1,2 @@
 # health-record
+ドキュメントはdocumentsに入れてください
