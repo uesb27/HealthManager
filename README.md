@@ -1,2 +1,2 @@
-# health-record
+# HealthManager
 ドキュメントはdocumentsに入れてください
